@@ -1,8 +1,10 @@
-[
-    {
-        "keywords":  [
+[{
+        "keywords": [
             "hola",
             "hola!",
+            "holap",
+            "holaaa",
+            "ola de mar",
             "ola",
             "ole",
             "inicio",
@@ -13,81 +15,369 @@
             "me dieron este número",
             "venden a crédito",
             "quisiera saber si venden",
-            "necesito saber"
+            "necesito saber",
+            "hi",
+            "holas",
+            "info",
+            "help"
         ],
         "key": "STEP_1"
     },
     {
-        "keywords":  [
-            "cursos",
-            "info",
-            "curso"        ],
+        "keywords": [
+            "colaboración",
+            "colaborar",
+            "colaboracion",
+            "Colaboración SEUPB",
+            "*colaboración*",
+            "*colaborar*",
+            "*colaboracion*",
+            "*Colaboración SEUPB*"
+        ],
         "key": "STEP_2"
     },
     {
-        "keywords":  [
-            "angular"
-        ],
-        "key": "STEP_2_1"
-    },
-    {
-        "keywords":  [
-            "node"
-        ],
-        "key": "STEP_2_2"
-    },
-    {
-        "keywords":  [
-            "ngrx"
-        ],
-        "key": "STEP_2_3"
-    },
-    {
-        "keywords":  [
-            "aws"
-        ],
-        "key": "STEP_2_4"
-    },
-    {
-        "keywords":  [
-            "asesor",
-            "asesores",
-            "Vendedor",
-            "cobrador"
+        "keywords": [
+            "lost",
+            "perdido",
+            "objeto perdido",
+            "perdidos",
+            "*perdido*",
+            "*perdidos*"
         ],
         "key": "STEP_3"
     },
     {
-        "keywords":  [
+        "keywords": [
             "muchas gracias",
             "ok",
             "gracias",
+            "grax",
             "vale gracias"
         ],
         "key": "STEP_4"
     },
     {
-        "keywords":  [
-            "youtube"
+        "keywords": [
+            "Beca",
+            "becas",
+            "beca",
+            "*Beca*",
+            "*becas*",
+            "*beca*",
+            "Becas",
+            "BECAS"
         ],
         "key": "STEP_5"
     },
     {
-        "keywords":  [
-            "VER_CURSOS"
+        "keywords": [
+            "email",
+            "Email",
+            "*EMAIL*",
+            "*email*",
+            "*Email*",
+            "E-mail",
+            "e-amil"
         ],
         "key": "STEP_6"
     },
     {
-        "keywords":  [
-            "telegram"
+        "keywords": [
+            "evento",
+            "Evento",
+            "*Evento*",
+            "*evento*",
+            "Eventos",
+            "eventos"
         ],
         "key": "STEP_7"
     },
     {
-        "keywords":  [
-            "audio"
+        "keywords": [
+            "obtener",
+            "Obtener",
+            "*obtener*",
+            "*Obtener*",
+            "OBTENER",
+            "OBTENER TARJETA",
+            "Obtener Tarjeta",
+            "Sacar tarjeta",
+            "obtener_tarjeta"
         ],
         "key": "STEP_8"
+    },
+    {
+        "keywords": [
+            "solidaridad",
+            "Solidaridad",
+            "SOLIDARIDAD",
+            "*SOLIDARIDAD*",
+            "*Solidaridad*",
+            "*solidaridad*",
+            "Responsabilidas Social",
+            "responsabilidad social"
+        ],
+        "key": "STEP_9"
+    },
+    {
+        "keywords": [
+            "redes",
+            "*Redes*",
+            "*redes*",
+            "Redes",
+            "REDES",
+            "Repost",
+            "REPOSTEO"
+        ],
+        "key": "STEP_10"
+    },
+    {
+        "keywords": [
+            "seupbcard",
+            "seupb card",
+            "*seupb card*",
+            "*Seupb card*",
+            "*SEUPB CARD*",
+            "Seupb_card",
+            "SEUPB_CARD",
+            "Seupb card",
+            "SEUPB CARD"
+        ],
+        "key": "STEP_11"
+    },
+    {
+        "keywords": [
+            "*psicologo*",
+            "*Psicologo*",
+            "*PSICOLOGO*",
+            "*psicólogo*",
+            "*Psicólogo*",
+            "psicologo",
+            "Psicologo",
+            "PSICOLOGO",
+            "psicólogo",
+            "Psicólogo",
+            "PSICóLOGO"
+        ],
+        "key": "STEP_12"
+    },
+
+    {
+        "keywords": [
+            "actividades_seupb",
+            "Actividades seupb",
+            "ACTIVIDADESSEUPB",
+            "Actividades_seupb",
+            "actividades seupb",
+            "*actividades_seupb*",
+            "*Actividades seupb*",
+            "*ACTIVIDADESSEUPB*",
+            "*Actividades_seupb*",
+            "*actividades seupb*"
+        ],
+        "key": "STEP_13"
+    },
+    {
+        "keywords": [
+            "Puntaje",
+            "puntaje",
+            "puntuación",
+            "Puntuación",
+            "*Puntaje*",
+            "*puntaje*",
+            "*puntuación*",
+            "*Puntuación*",
+            "puntajeUPBMATCH",
+            "score UPBMATCH"
+        ],
+        "key": "STEP_14"
+    },
+    {
+        "keywords": [
+            "Actividades_UPBMatch",
+            "*Actividades_UPBMatch*",
+            "*Actividades UPBMARTCH*",
+            "*Actividad_UPBMatch*",
+            "*actividades_upbmatch*",
+            "Actividades UPBMARTCH",
+            "Actividad_UPBMatch",
+            "actividad_upbmatch",
+            "actividades_upbmatch",
+            "Actividades Upbmatch",
+            "actividades upbmatch"
+
+        ],
+        "key": "STEP_15"
+    },
+    {
+        "keywords": [
+            "Capitanía",
+            "capitanía",
+            "capitania",
+            "Capitania",
+            "CAPITANIA",
+            "*Capitanía*",
+            "*capitanía*",
+            "capitanes",
+            "capitán",
+            "Capitanes"
+
+        ],
+        "key": "STEP_16"
+    },
+    {
+        "keywords": [
+            "*DAAE*",
+            "*Contactos daae*",
+            "*daae*",
+            "DAAE",
+            "Contactos daae",
+            "daae",
+            "carmencita",
+            "pao de daae",
+            "asuntos estudiantiles"
+
+        ],
+        "key": "STEP_17"
+    },
+    {
+        "keywords": [
+            "Voluntariado",
+            "voluntario",
+            "voluntariado",
+            "*Voluntariado*",
+            "*voluntario*",
+            "*voluntariado*"
+
+        ],
+        "key": "STEP_18"
+    },
+    {
+        "keywords": [
+            "Clubs",
+            "clubs",
+            "club",
+            "*Clubs*",
+            "*clubs*",
+            "*club*"
+
+        ],
+        "key": "STEP_19"
+    },
+    {
+        "keywords": [
+            "Precios UPB",
+            "precio",
+            "precios",
+            "Precio",
+            "*precio*",
+            "*precios*",
+            "*Precio*"
+
+        ],
+        "key": "STEP_20"
+    },
+    {
+        "keywords": [
+            "Advantage",
+            "advantage",
+            "SEUPB Advantage",
+            "Seupb Advantage",
+            "SEUPB ADVANTAGE",
+            "SEUPB advantage",
+            "*advantage*",
+            "*Advantage*",
+            "*ADVANTAGE*",
+            "*Seupb advantage*",
+            "seupb advantage",
+            "seupbdvantage",
+            "SEUPB_ADVANTAGE",
+            "Seupb_advantage",
+            "Tarjeta gratuita",
+            "Tarjeta gratis",
+            "Beneficios"
+        ],
+        "key": "STEP_21"
+    },
+    {
+        "keywords": [
+            "Egresado",
+            "egresado",
+            "*Egresado*",
+            "*egresado*",
+            "Egresada",
+            "egresada",
+            "*Egresada*",
+            "*egresada*"
+
+        ],
+        "key": "STEP_22"
+    },
+    {
+        "keywords": [
+            "*Pasantia*",
+            "*pasantía*",
+            "*Pasantía*",
+            "*pasantia*",
+            "Pasantia",
+            "pasantía",
+            "Pasantía",
+            "pasantia"
+
+        ],
+        "key": "STEP_23"
+    },
+    {
+        "keywords": [
+            "Decanatura",
+            "decanatura",
+            "*Decanatura*",
+            "*decanatura*",
+            "Decano",
+            "decano"
+
+        ],
+        "key": "STEP_24"
+    },
+    {
+        "keywords": [
+            "SEUPB",
+            "Contactos SEUPB",
+            "Contacto",
+            "seupb",
+            "*SEUPB*",
+            "suepb",
+            "SUEPB",
+            "*Contactos SEUPB*",
+            "*Contacto*",
+            "*seupb*",
+            "contacto",
+            "contacto_seupb"
+
+        ],
+        "key": "STEP_25"
+    },
+    {
+        "keywords": [
+            "Ayuda",
+            "ayuda",
+            "Comandos",
+            "Palabras Clave",
+            "Guía",
+            "me ayudas",
+            "Me ayudas",
+            "*AYUDA*",
+            "*ayuda*",
+            "*Ayuda*",
+            "*Ayúdame*",
+            "Ayúdame",
+            "Alluda",
+            "*help*",
+            "help",
+            "Help"
+
+        ],
+        "key": "STEP_26"
     }
 ]

@@ -1,13 +1,12 @@
 {
-    "type": "",
-    "project_id": "",
-    "private_key_id": "",
-    "private_key":"",
-    "client_email": "",
-    "client_id": "",
-    "auth_uri": "",
-    "token_uri": "",
-    "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url":""
-  }
-  
+  "type": "service_account",
+  "project_id": "seupbot-uxte",
+  "private_key_id": "12d3f7f2f94a41b5ac236fb2991058d10d9a3188",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChY32Lmyay7HKf\n891Vbw6J6kBOvDu3r0lPqu/oYups2QQPIWSG3rhD4E4sLSdiuMEOLhi95izbzir+\neT5Ctbl5O/sgJMh2ctISwt2ilKZVyf95I+GpY1f3mdbp/izAcZ/E6i0AogfjK9RT\njtFIUFCJcsTRGvNaUWuRXI7ETbaBrWaPgZLOWHp/HE8G4FBQrqqXjRGaH52VUyMa\n+2E7t4/2WlSuDXgFfsBB9oPEVLW6Oy1PCYiug9PfcS7KnVc9VKtKmRrgxv2XjKJL\nIFtbSxWhWE7FPoDjxaHia8z/2xf4F2we/Em8SmJOHXukeK/TpJb3UkeWyr2ZAYnv\nnW++izUhAgMBAAECggEAA8P7oUrh0qWp8IG7AbPtR8pBjRy++3SRbjSPs7FAJUFE\ngxpdOzjd3YaRqF321+q15W/tp5uj4w6KygR374xIKzQbMkctbrcT3/hwPauAfIqx\npWjRCnfdDPPH1A6YSna0Or7YhTXin3otsnPn/esSz/wvq63YbPxumTYKxjmGdzzU\nJInwyi10ZuctabPFXR0d6RlHa1c+ky+CwTJrC6Y//76hDdK1wZ3J+KMR+aLx8Wv5\njheP8IAQcyNMRSVF46NJorN9Nu+xjEm3Zy2rAmByEGgJCJ/QbkIIye9AP1vH7Y26\nX0OivIhArz91fPdKaj468Xnt1GUksQVkGMls0WAPGQKBgQDS3h/kGkM63l9XeEFh\nHeL8lSM0rWmg/Obx0cD10X2K5t4Fmk1Z5Yn+avDiGO9prHPUBaNxoK0d/ewpBl83\n8+fsfMvfo+0EqP0Wt0JHpqRHSvIzXdbL5RTIRdlWWNk3/f9nnTr19BxYvpp5Mux9\nfNxA2sE1UpcR9ZJc0Mf6c4OYCQKBgQDD7k6a0u4qHilLiVEDGS8poYgZd6OFsyyF\ni5RoLk4VuCLBDbiczdoU3qdGGacJUaihvue6QNZSPAzaqpmRP8+EUJhyWdnJY4pN\na80i9Dbl98rMAEgJBpCyxru+LvccwXXNzhMcIT85VjtA0Y5PK7YentZ0ty3mqrlX\nvWo7S8MKWQKBgBrmCttmHj1cMH1P8ccZsOLXg24s0NSgbjVatGqnFoSpfpjoXgWh\nqkCyE5hD5gZs4Tminn7YKD0zLvTswyi4DFW2datJleqKQ/6p0eKh90LA5LR4u/W2\nezgw8NB69PqXhAULoYHOae9IIRxkypYXX2FGhm7u4iaAVPNSDrB8G8VBAoGAfLWI\nTr+HXEOKYUvrxp8XB9aK/DrMWGNtKStosM8YYHatmFeVdCkKcFIwAkx9p07UmO8c\nK87tG7ahL+V6jZsiCMQL5G0QVEEJXLILBf6PmtyXtjVPpH8LRt97zFe0bhctVmue\nej8nMOWUHXPEstvNtbvAINYfXzy3cANeRJO6dzECgYAtMhUD4Y66TyuMr/x2Gb5y\nRGM4YHPgdIqmDDmUgTyrQJINabrxO9L1y1wHmHUwJet063Fj33MlvAhqbj7tTeHt\nE6YJNr+VYARL6JIUgvJsecTj59LAr4BOW+/c3BIj1BtlPQSs/H2+SlM03mtcDGmt\n6IavlsW+HRQWGDRkhOl9lA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "seupbot@seupbot-uxte.iam.gserviceaccount.com",
+  "client_id": "100286216552998890530",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seupbot%40seupbot-uxte.iam.gserviceaccount.com"
+}
